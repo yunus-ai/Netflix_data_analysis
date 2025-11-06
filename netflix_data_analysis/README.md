@@ -76,4 +76,6 @@ Building end-to-end projects suitable for GitHub portfolios and internships
 💼 Author
 
 Yunus
+
 🚀 Data Science & AI Enthusiast | Focused on Real-World AI & Analytics Projects
+    Contact: yunusshaikhy2006@gmail.com
